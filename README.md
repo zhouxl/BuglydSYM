@@ -5,3 +5,6 @@
 > ./dsym.sh
 
 **配置buglyConfig文件可以实现自动上传功能**
+
+### Feature
+- [] 通过uuid查找到dsym文件
