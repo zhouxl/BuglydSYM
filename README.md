@@ -8,4 +8,4 @@
 
 ## Feature
 
-- [] 通过uuid查找到dsym文件
+- [ ] 通过uuid查找到dsym文件
